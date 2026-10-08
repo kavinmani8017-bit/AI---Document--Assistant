@@ -16,4 +16,11 @@ DATA Security :
 Company documents are private organizational data. Access should be limited to authorized users,with authentication and appropriate storage/security controls.
 
 
-Busin
+Business Model :
+The project can work as a B2B SaaS paltform .
+
+Revenue potential :
+ Based on numbers of users 
+ Based on document storage/Usage
+ Premium AI features
+ Monthly/yearly subscription
